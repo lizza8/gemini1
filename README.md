@@ -1,7 +1,7 @@
 # MINDTRACE Cognitive Engine 
  
 ## Setup
-- Install deps: `npm install` 
+- Install deps: `npm install`  
 - Set env: `export GEMINI_API_KEY=your_key` (see `env.example`) 
 - Run: `npm start` 
 
