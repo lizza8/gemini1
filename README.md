@@ -1,4 +1,4 @@
-# MINDTRACE Cognitive Engine
+# MINDTRACE Cognitive Engine 
  
 ## Setup
 - Install deps: `npm install`
