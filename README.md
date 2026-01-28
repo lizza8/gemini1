@@ -7,7 +7,7 @@
 
 ## Endpoints 
 - `POST /reason` with JSON `{ "input": "...", "modality": "text|speech|screen|document" }`      
-- `POST /counterfactual` with JSON `{ "assumptionId": "A1", "modification": "..." }`     
+- `POST /counterfactual` with JSON `{ "assumptionId": "A1", "modification": "..." }`      
 
 ## Example
 ```bash 
