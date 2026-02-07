@@ -3,7 +3,7 @@
 ## Setup 
 - Install deps: `npm install`     
 - Set env: `export GEMINI_API_KEY=your_key` (see `env.example`)       
-- Run: `npm start`    
+- Run: `npm start`     
  
 ## Endpoints 
 - `POST /reason` with JSON `{ "input": "...", "modality": "text|speech|screen|document" }`               
