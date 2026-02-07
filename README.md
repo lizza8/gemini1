@@ -13,5 +13,5 @@
 ```bash     
 curl -X POST http://localhost:3001/reason \     
   -H "Content-Type: application/json" \    
-  -d '{"input":"If we raise prices by 20%, revenue should increase","modality":"speech"}'        
+  -d '{"input":"If we raise prices by 20%, revenue should increase","modality":"speech"}'         
 ```
