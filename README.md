@@ -9,7 +9,7 @@
 - `POST /reason` with JSON `{ "input": "...", "modality": "text|speech|screen|document" }`                  
 - `POST /counterfactual` with JSON `{ "assumptionId": "A1", "modification": "..." }`           
    
-## Example    
+## Example     
 ```bash       
 curl -X POST http://localhost:3001/reason \      
   -H "Content-Type: application/json" \     
